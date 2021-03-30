@@ -195,4 +195,4 @@ Make sure all posts are publicly accessible but only registered users can add po
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 ----|----|----|----
-[&#10094; Prev](../pcc-chapter-18)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../pcc-chapter-20)
+[&#10094; Prev](../../../pcc-chapter-18)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../../../pcc-chapter-20)
