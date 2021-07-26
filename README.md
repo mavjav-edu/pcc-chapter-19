@@ -23,7 +23,7 @@ posts. Fill in your forms to make sure they work.
 
 <span id="ch19exe2"></span>**19-2. Blog Accounts:** Add a user
 authentication and registration system to the Blog project you started
-in [Exercise 19-1](../chapter_19/README.md#ch19exe1) ([page 438](../chapter_19/README.md#page_438)).
+in [Exercise 19-1](../../../pcc_2e/tree/master/chapter_19/README.md#ch19exe1) ([page 438](../../../pcc_2e/tree/master/chapter_19/README.md#page_438)).
 Make sure logged-in users see their username somewhere on the screen and
 unregistered users see a link to the registration page.
 
