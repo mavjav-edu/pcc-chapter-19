@@ -7,6 +7,8 @@ entries, and edit existing entries. You’ll also learn how Django guards
 against common attacks to form-based pages so you don’t have to spend
 too much time thinking about securing your apps.
 
+![Landing Old School GIF By Álvaro Abrante](https://i.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.webp)
+
 ## TRY IT YOURSELF Ⓐ
 
 <span id="ch19exe1"></span>**19-1. Blog:** Start a new Django project
